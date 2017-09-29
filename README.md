@@ -4,7 +4,7 @@ This is a generic package for parallelization using Threads and Processes
 
 ##### Install using pip 
 
-* pip install plmap
+* pip install plmap3
 
 ##### Install from the source
 * Download the source  : git clone https://github.com/CodingVanGogh/parallelization3
