@@ -41,7 +41,7 @@ import os
 import time
 import signal
 import types
-from progress_bar import generate_loading_string
+from plmap3.progress_bar import generate_loading_string
 
 
 

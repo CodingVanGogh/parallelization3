@@ -34,7 +34,7 @@ The output will look like this :
 import sys
 from queue import Queue
 from threading import Lock, Thread
-from progress_bar import generate_loading_string
+from plmap3.progress_bar import generate_loading_string
 
 PROGRESS_BAR_POLL_TIME = 1
 
