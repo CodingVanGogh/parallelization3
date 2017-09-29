@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(name='plmap3',
-      version='1.0.0',
+      version='1.0.1',
       description='Parallel map using multi-threading for python3',
       author='Coding Van Gogh',
       packages=['plmap3'],
